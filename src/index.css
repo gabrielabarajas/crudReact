@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.contentBooks{
+  list-style: none;
+  width: 80%;
+  margin: 40px;
+  min-width: 600px;
+}
+
